@@ -1,0 +1,7 @@
+experiments
+__pycache__
+*.out
+job_logs
+res_store
+*.sh
+train_data
